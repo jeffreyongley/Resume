@@ -1,0 +1,6 @@
+This is a placeholder file. Please replace the following images in this directory:
+
+1. profile_image.jpg - Your professional headshot or profile picture
+2. csusb_logo.png - California State University San Bernardino logo
+
+You can download the CSUSB logo from their official website or use an image search engine to find a suitable version.
